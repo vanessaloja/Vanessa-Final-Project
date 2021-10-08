@@ -2,7 +2,7 @@ function generate(){
     var quotes = {
         "Fact #1" : '"The only letter to not apper in the periodic tabe is the letter J"',
         "Fact #2" : '"Rain contains vitamin B12"',
-        "Fact #3" : '"The first living created in space was a dog named Laika"',
+        "Fact #3" : '"The first living creature in space was a dog named Laika"',
         "Fact #4" : '"In the mid-1800s Ketchup was sold as medicine"',
         "Fact #5" : '"The US gets over 1,200 tornadoes a year"',
 }
